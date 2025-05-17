@@ -10,7 +10,7 @@ import { CompletedActionReview } from '../completed-action-review/completed-acti
 import { KRC20OperationType } from '../../../types/kaspa-network/krc20-operations-data.interface';
 import { PriorityFeeSelectionComponent } from '../priority-fee-selection/priority-fee-selection.component';
 import { AppWallet } from '../../../classes/AppWallet';
-import { ReviewActionDataService } from '../../../services/review-action-data.service';
+import { ReviewActionDataService } from '../../../services/action-info-services/review-action-data.service';
 import { WalletActionService } from '../../../services/wallet-action.service';
 import { EIP1193RequestPayload, EIP1193RequestType } from 'kaspacom-wallet-messages';
 

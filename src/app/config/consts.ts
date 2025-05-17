@@ -4,6 +4,7 @@ export const LOCAL_STORAGE_KEYS = {
     UNFINISHED_COMMIT_REVEAL_ACTIONS: 'UnfinishedCommitRevealActions',
     ETHEREUM_CHAINS: 'ethereumChains',
     CURRENT_ETHEREUM_CHAIN: 'currentEthereumChain',
+    ALLOWED_APPLICATIONS: 'allowedApplications',
 }
 
 export const KASPA_NETWORKS = {
